@@ -1,0 +1,2 @@
+data/bias/combined_bias.fit filter=lfs diff=lfs merge=lfs -text
+data/darks/** filter=lfs diff=lfs merge=lfs -text
