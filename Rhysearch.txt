@@ -5,3 +5,6 @@ Another point to note is that this paper accounts for the ICM (intracluster medi
 Weak gravitational lensing Matthias Bartelmann, Matteo Maturi(2016)(https://doi.org/10.48550/arXiv.1612.06535)
 This paper gives an excellent overview of one method of finding the spaitial density function of a DM halo using the NFW method which is commonly used in modern astrophysics. This method only works if we can find background galaxies that are being weakly lensed by the cluster. We find the ellipticity of these lensed background galaxies to find the shear. From this, we can find the mass distribution and fit this to a NFW profile which will tell us the density of DM as a function of distance from the centre of the cluster. 
 A couple things to note here, I'm not entirely sure how we go from ellipticity to shear to finding the mass. Hopefully some other papers can enlighten me on how to do this. I'm not sure how to find the ellipticity either from our data. There might be an easy way to code this, but I'm not sure. Lastly, this method entirely depends on there being weakly lensed background galaxies in the first place. There is another method an the next paper below should show this method.
+
+
+Stellar mass-to-light ratios and the Tully-Fisher relation (https://doi.org/10.48550/arXiv.astro-ph/0011493)
