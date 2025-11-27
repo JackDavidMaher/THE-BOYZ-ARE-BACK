@@ -8,3 +8,5 @@ A couple things to note here, I'm not entirely sure how we go from ellipticity t
 
 
 Stellar mass-to-light ratios and the Tully-Fisher relation (https://doi.org/10.48550/arXiv.astro-ph/0011493)
+
+Tully-Fisher Relation (https://doi.org/10.48550/arXiv.2310.16053)
