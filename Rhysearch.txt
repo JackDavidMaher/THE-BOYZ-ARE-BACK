@@ -13,3 +13,4 @@ Tully-Fisher Relation (https://doi.org/10.48550/arXiv.2310.16053)
 
 GALAXY CLUSTER BARYON FRACTIONS REVISITED (DOI 10.1088/0004-637X/778/1/14)
 fraction of ICM mass compared to total mass is proportional to M^0.26+/-0.03(within the radius where the density of the cluster is 500 times greater than the critical density)
+
